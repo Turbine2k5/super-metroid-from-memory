@@ -56,12 +56,12 @@
       <doorcode>0000</doorcode>
     </Door>
     <Door>
-      <toroom area="02" index="00" />
+      <toroom area="02" index="05" />
       <bitflag>00</bitflag>
-      <direction>00</direction>
-      <tilex>0</tilex>
-      <tiley>0</tiley>
-      <screenx>00</screenx>
+      <direction>05</direction>
+      <tilex>E</tilex>
+      <tiley>6</tiley>
+      <screenx>01</screenx>
       <screeny>00</screeny>
       <distance>8000</distance>
       <doorcode>0000</doorcode>
