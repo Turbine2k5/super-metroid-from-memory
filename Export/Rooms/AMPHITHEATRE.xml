@@ -11,17 +11,6 @@
   <specialGFX>00</specialGFX>
   <Doors>
     <Door>
-      <toroom area="02" index="3D" />
-      <bitflag>00</bitflag>
-      <direction>00</direction>
-      <tilex>0</tilex>
-      <tiley>0</tiley>
-      <screenx>00</screenx>
-      <screeny>00</screeny>
-      <distance>8000</distance>
-      <doorcode>0000</doorcode>
-    </Door>
-    <Door>
       <toroom area="02" index="03" />
       <bitflag>00</bitflag>
       <direction>00</direction>
@@ -1126,7 +1115,7 @@
       <GFXset>09</GFXset>
       <music>0000</music>
       <FX1s>
-        <FX1 roomarea="02" roomindex="03" fromdoor="01">
+        <FX1 roomarea="02" roomindex="03" fromdoor="00">
           <surfacestart>FFFF</surfacestart>
           <surfacenew>FFFF</surfacenew>
           <surfacespeed>0000</surfacespeed>
