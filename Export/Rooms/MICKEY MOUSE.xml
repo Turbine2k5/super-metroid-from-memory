@@ -1,6 +1,6 @@
 <Room>
   <Saves />
-  <index>3D</index>
+  <index>01</index>
   <area>02</area>
   <x>00</x>
   <y>00</y>
@@ -11,7 +11,7 @@
   <specialGFX>00</specialGFX>
   <Doors>
     <Door>
-      <toroom area="02" index="3D" />
+      <toroom area="02" index="01" />
       <bitflag>00</bitflag>
       <direction>00</direction>
       <tilex>0</tilex>
@@ -22,23 +22,12 @@
       <doorcode>0000</doorcode>
     </Door>
     <Door>
-      <toroom area="02" index="3D" />
+      <toroom area="02" index="01" />
       <bitflag>00</bitflag>
       <direction>05</direction>
       <tilex>F</tilex>
       <tiley>6</tiley>
       <screenx>04</screenx>
-      <screeny>00</screeny>
-      <distance>8000</distance>
-      <doorcode>0000</doorcode>
-    </Door>
-    <Door>
-      <toroom area="02" index="03" />
-      <bitflag>00</bitflag>
-      <direction>00</direction>
-      <tilex>0</tilex>
-      <tiley>0</tiley>
-      <screenx>00</screenx>
       <screeny>00</screeny>
       <distance>8000</distance>
       <doorcode>0000</doorcode>
