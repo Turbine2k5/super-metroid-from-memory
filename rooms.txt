@@ -34,6 +34,7 @@ old mb room
   - 230 Missiles
 - Brinstar
   - Vileplume Power Bombs
+  - Alpha Power Bombs
 - Norfair
   - Business Center
 
